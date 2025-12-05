@@ -1,5 +1,5 @@
-## Link to Report
+### Here is a [link to my report](assets/Baseball_Final_Project_REPORT.pdf).
 
-## Link to Dataset
+### Link to Dataset
 
-## Link to Code
+### Link to Code
